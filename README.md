@@ -4,6 +4,7 @@
 This project aims to develop a machine learning model to predict water potability based on various water quality parameters. The dataset contains measurements of pH value, hardness, total dissolved solids (TDS), chloramines, sulfate, conductivity, organic carbon, trihalomethanes, turbidity, and the potability label.
 
 ## Dataset
+- [Water Potability Dataset](https://drive.google.com/file/d/1ypGrF8Gjj2DzqPvoebBH1C5USFC1DtIw/view)
 - The dataset consists of 3276 rows and 10 columns.
 - Columns with null values: pH, sulfate, and Trihalomethanes.
 - Datatypes: Potability (integer), other columns (float).
